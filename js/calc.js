@@ -22,4 +22,5 @@ const buttons = document.querySelectorAll("button");
 buttons.forEach(element => {
     element.addEventListener('click', calc);
     //callback to function
+    //test
 })
